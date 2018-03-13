@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="task-springMVC:war">
+    <output-path>$PROJECT_DIR$/task-springMVC/target</output-path>
+    <root id="archive" name="task-springMVC.war">
+      <element id="artifact" artifact-name="task-springMVC:war exploded" />
+    </root>
+  </artifact>
+</component>
